@@ -4,3 +4,5 @@ There are 3 code files in this repository:
  1. The CN model in different approach
  2. MD and HS models
  3. Tripartite network applying above methods
+
+These codes are for the practice purpose. The data source is from :https://grouplens.org/datasets/movielens/.
